@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/INSIGNIAS/cristian_rodriguez-assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "mailto:coliitohr@gmail.com"
+  },
+  "issuedOn": "2025-10-02T02:48:21Z",
+  "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/INSIGNIAS/comprometido.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

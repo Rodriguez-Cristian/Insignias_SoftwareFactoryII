@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/INSIGNIAS/comprometido.json",
+  "name": "Alumno Comprometido 2025",
+  "description": "Reconocimiento al compromiso, la responsabilidad y la constancia demostrados en la asignatura Software Factory II, destacando la entrega puntual y la calidad en el trabajo realizado.",
+  "image": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/INSIGNIAS/insignia.png",
+  "criteria": {
+    "narrative": "Participar activamente en proyectos y mostrar responsabilidad constante."
+  },
+  "issuer": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/INSIGNIAS/emisor.json"
+}
