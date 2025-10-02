@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/INSIGNIAS/emisor.json",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignia/emisor.json",
   "name": "Cristian Rodriguez - Prof. Software Factory II",
   "url": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII",
   "email": "coliitohr@gmail.com"
