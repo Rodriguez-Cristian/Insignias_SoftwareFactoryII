@@ -2,7 +2,7 @@
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
   "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/emisor.json",
-  "name": "Cristian Rodriguez - Prof. Software Factory II",
+  "name": "Cristian Rodriguez - Prof. Software Factory II - ITES (Instituto Tecnológico de Educación Superior)",
   "url": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII",
   "email": "coliitohr@gmail.com"
 }
