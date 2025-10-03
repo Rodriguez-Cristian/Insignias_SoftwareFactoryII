@@ -5,9 +5,9 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: SIERRA SERGIO MÁXIMO | DNI: 47179513"
+    "identity": "Alumno: SIERRA SERGIO MÁXIMO | DNI: 47179513 | Emisor de insignia: Email: cristian.rodriguez@ites.edu.ar"
   },
-  "issuedOn": "2025-10-03T02:32:32Z",
+  "issuedOn": "2025-10-03T02:43:06Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
   "verification": {
     "type": "hosted"
