@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/pepe_alvarez-assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "Alumno: Pepe Alvarez | DNI: 40111222 | Mail: pepe@pepe.com"
+  },
+  "issuedOn": "2025-10-03T00:53:28Z",
+  "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
+  "verification": {
+    "type": "hosted"
+  }
+}
