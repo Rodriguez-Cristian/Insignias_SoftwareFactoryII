@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/rivadineira_clemengo_thiago_arian-assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "Alumno: RIVADINEIRA CLEMENGO THIAGO ARIAN | DNI: 47179548"
+  },
+  "issuedOn": "2025-10-03T02:32:32Z",
+  "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

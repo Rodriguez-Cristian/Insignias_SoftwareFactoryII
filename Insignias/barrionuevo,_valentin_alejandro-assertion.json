@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/barrionuevo,_valentin_alejandro-assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "Alumno: BARRIONUEVO, VALENTIN ALEJANDRO | DNI: 44341498"
+  },
+  "issuedOn": "2025-10-03T02:32:32Z",
+  "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

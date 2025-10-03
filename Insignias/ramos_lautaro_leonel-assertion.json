@@ -1,13 +1,13 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/cristian_rodriguez-assertion.json",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/ramos_lautaro_leonel-assertion.json",
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: Cristian Rodriguez | DNI: 35386122 | Mail: coliitohr@gmail.com"
+    "identity": "Alumno: RAMOS LAUTARO LEONEL | DNI: 47376656"
   },
-  "issuedOn": "2025-10-03T00:53:28Z",
+  "issuedOn": "2025-10-03T02:32:32Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
   "verification": {
     "type": "hosted"

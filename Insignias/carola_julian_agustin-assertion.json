@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/carola_julian_agustin-assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "Alumno: CAROLA JULIAN AGUSTIN | DNI: 45796054"
+  },
+  "issuedOn": "2025-10-03T02:32:32Z",
+  "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

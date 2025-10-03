@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/neveu_facundo_tomás-assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "Alumno: NEVEU FACUNDO TOMÁS | DNI: 47374201"
+  },
+  "issuedOn": "2025-10-03T02:32:32Z",
+  "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
+  "verification": {
+    "type": "hosted"
+  }
+}
