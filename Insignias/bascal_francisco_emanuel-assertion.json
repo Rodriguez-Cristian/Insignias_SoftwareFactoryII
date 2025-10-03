@@ -5,9 +5,9 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: BASCAL FRANCISCO EMANUEL | DNI: 46472689 | Emisor de insignia: Email: cristian.rodriguez@ites.edu.ar"
+    "identity": "Alumno: BASCAL FRANCISCO EMANUEL | DNI: 46472689 | Email: franbascal@gmail.com"
   },
-  "issuedOn": "2025-10-03T02:43:06Z",
+  "issuedOn": "2025-10-03T12:17:16Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
   "verification": {
     "type": "hosted"

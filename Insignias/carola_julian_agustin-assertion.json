@@ -5,9 +5,9 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: CAROLA JULIAN AGUSTIN | DNI: 45796054 | Emisor de insignia: Email: cristian.rodriguez@ites.edu.ar"
+    "identity": "Alumno: CAROLA JULIAN AGUSTIN | DNI: 45796054 | Email: juliancarola04@gmail.com"
   },
-  "issuedOn": "2025-10-03T02:43:06Z",
+  "issuedOn": "2025-10-03T12:17:16Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
   "verification": {
     "type": "hosted"

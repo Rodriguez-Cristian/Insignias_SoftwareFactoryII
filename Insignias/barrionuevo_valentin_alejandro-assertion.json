@@ -1,11 +1,11 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/gallinger_hugo_nicolas-assertion.json",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/barrionuevo_valentin_alejandro-assertion.json",
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: GALLINGER HUGO NICOLAS | DNI: 40611665 | Email: nicolasgallinger@gmail.com"
+    "identity": "Alumno: BARRIONUEVO VALENTIN ALEJANDRO | DNI: 44341498 | Email: valentinbarrionuevo22@gmail.com"
   },
   "issuedOn": "2025-10-03T12:17:16Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",

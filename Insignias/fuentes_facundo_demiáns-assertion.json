@@ -1,11 +1,11 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/gallinger_hugo_nicolas-assertion.json",
+  "id": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/fuentes_facundo_demiáns-assertion.json",
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: GALLINGER HUGO NICOLAS | DNI: 40611665 | Email: nicolasgallinger@gmail.com"
+    "identity": "Alumno: FUENTES FACUNDO DEMIÁNS | DNI: 45796053 | Email: facu.fuentez@gmail.com"
   },
   "issuedOn": "2025-10-03T12:17:16Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",

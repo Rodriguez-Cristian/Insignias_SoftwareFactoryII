@@ -5,9 +5,9 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: MOYANO HECTOR MARIO | DNI: 29692614 | Emisor de insignia: Email: cristian.rodriguez@ites.edu.ar"
+    "identity": "Alumno: MOYANO HECTOR MARIO | DNI: 29692614 | Email: hecmarmoy@gmail.com"
   },
-  "issuedOn": "2025-10-03T02:43:06Z",
+  "issuedOn": "2025-10-03T12:17:16Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
   "verification": {
     "type": "hosted"

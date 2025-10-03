@@ -5,9 +5,9 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "Alumno: RIVADINEIRA CLEMENGO THIAGO ARIAN | DNI: 47179548 | Emisor de insignia: Email: cristian.rodriguez@ites.edu.ar"
+    "identity": "Alumno: RIVADINEIRA CLEMENGO THIAGO ARIAN | DNI: 47179548 | Email: thiagorivadineira@gmail.com"
   },
-  "issuedOn": "2025-10-03T02:43:06Z",
+  "issuedOn": "2025-10-03T12:17:16Z",
   "badge": "https://rodriguez-cristian.github.io/Insignias_SoftwareFactoryII/Insignias/comprometido.json",
   "verification": {
     "type": "hosted"
